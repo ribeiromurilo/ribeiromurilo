@@ -126,14 +126,14 @@ Hi! I’m Murilo, a 22-year-old from São Paulo, Brazil. I recently graduated wi
     alt="GitHub Stats" 
     height="190" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ribeiromurilo&show_icons=true&theme=omni&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=ribeiromurilo&show_icons=true&theme=radical&include_all_commits=true" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="190" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiromurilo&theme=omni&layout=compact&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiromurilo&theme=radical&layout=compact&langs_count=9" 
   />
 
 </p>
