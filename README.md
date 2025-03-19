@@ -6,18 +6,18 @@ Hi! I’m Murilo, a 22-year-old from São Paulo, Brazil. I recently graduated wi
 
 
 <p align="left">
-    <a href="https://github.com/ribeiromurilo?tab=followers">
-        <img 
-            alt="follow" 
-            title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/ribeiromurilo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=follow&logoColor=white"
-        />
-    </a>
     <a href="https://github.com/ribeiromurilo?tab=repositories&sort=stargazers">
         <img 
             alt="stars" 
             title="Total stars on Github" 
             src="https://custom-icon-badges.demolab.com/github/stars/ribeiromurilo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
+        />
+    </a>
+    <a href="https://github.com/ribeiromurilo?tab=followers">
+        <img 
+            alt="follow" 
+            title="Follow me on GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/ribeiromurilo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follow&logoColor=white"
         />
     </a>
 </p>
@@ -124,7 +124,7 @@ Hi! I’m Murilo, a 22-year-old from São Paulo, Brazil. I recently graduated wi
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
+    height="190" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=ribeiromurilo&show_icons=true&theme=radical&include_all_commits=true" 
   />
@@ -132,7 +132,7 @@ Hi! I’m Murilo, a 22-year-old from São Paulo, Brazil. I recently graduated wi
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="180" 
+      height="190" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiromurilo&theme=radical&layout=compact&langs_count=9" 
   />
 
